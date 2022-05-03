@@ -1,0 +1,17 @@
+.page-header {
+    padding: 30px 0 15px 0;
+    margin-bottom: 30px;
+    background: rgb(175, 54, 54);
+    border-bottom: 2px solid #e0f0fe;
+    position: relative;
+}
+
+.page-header .page-title {
+    font-size: 24px;
+    padding: 0;
+    margin: 0;
+    color: #023b6d;
+    font-weight: 500;
+    background: #fff;
+    font-family: Poppins,sans-serif;
+}
